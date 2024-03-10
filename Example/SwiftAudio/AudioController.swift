@@ -18,8 +18,12 @@ class AudioController {
     
     let sources: [AudioItem] = [
         DefaultAudioItem(audioUrl: "https://kexp-mp3-128.streamguys1.com/kexp128.mp3", artist: "KEXP", title: "KEXP", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
+
         DefaultAudioItem(audioUrl: "https://live.welle1.at:17128/stream", artist: "WERU", title: "WERU", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
-        DefaultAudioItem(audioUrl: "https://stream.pacificaservice.org:9000/weru_128", artist: "David Chavez", title: "Soul Searching (Demo)", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
+
+        DefaultAudioItem(audioUrl: "https://live.welle1.at:17128/stream", artist: "xERU", title: "WERU", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
+        
+        
 
     ]
     
