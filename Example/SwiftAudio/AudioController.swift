@@ -21,7 +21,7 @@ class AudioController {
 
         DefaultAudioItem(audioUrl: "https://live.welle1.at:17128/stream", artist: "WERU", title: "WERU", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
 
-        DefaultAudioItem(audioUrl: "https://live.welle1.at:17128/stream", artist: "xERU", title: "WERU", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
+        DefaultAudioItem(audioUrl: "http://marconi.emerson.edu:8000/wers", artist: "WERS", title: "WERS", sourceType: .stream, artwork: #imageLiteral(resourceName: "22AMI")),
         
         
 
